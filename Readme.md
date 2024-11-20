@@ -1,5 +1,7 @@
 # Coveliers Cédric
 
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZoZm5wamc2dTBnNW1jNXdtcmU4dG93bXg2aWE3NzhzMTJ6NDh5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wZsPppl0p8Y9dMO8bD/giphy.gif)
+
 #### Qui suis-je ?
 
 Un chauve en devenir ou futur moine.
