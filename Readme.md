@@ -13,8 +13,8 @@ Un chauve en devenir ou futur moine.
 #### Ce que j'aime par dessus tout
 
 - Le Quick
-- Les jeux
-- Dormir
+- Les jeux vidéos
+- Dormir tard
 
 #### A la fin je voudrais
 
