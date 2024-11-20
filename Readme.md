@@ -34,4 +34,4 @@ Ne pas être à la hauteur des attendes de moi même ou des autres.
 - L'entraide
 - Une bonne ambiance
 
-![link](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRvbGx2NW53YjJ2eHNvNXBxZGkyM2ZzNHNvbmt6MGw3eDc0bmt2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CIa20W7zhQIuY/giphy.webp)
+![link](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdndWxidWRwY3A0Y3lqaHJrOW10ZXZ5MXdxYTJhdXNic2Rybm5kMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d7EdcFSh3Ww5rHqq8W/giphy.webp)
