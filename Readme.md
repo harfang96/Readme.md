@@ -1,15 +1,15 @@
 # Coveliers Cédric
 
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZoZm5wamc2dTBnNW1jNXdtcmU4dG93bXg2aWE3NzhzMTJ6NDh5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wZsPppl0p8Y9dMO8bD/giphy.gif)
+![Howdyho](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZoZm5wamc2dTBnNW1jNXdtcmU4dG93bXg2aWE3NzhzMTJ6NDh5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wZsPppl0p8Y9dMO8bD/giphy.gif)
 
 #### Qui suis-je ?
 
-Un chauve en devenir ou futur moine.
+Un chauve en devenir ou futur moine ***shaolin***.
 
 #### Mes compétences
 
 1. Je m'adapte vite
-2. Avec moi on peut rire de tout
+2. **On ne peut pas rire de tout avec tout le monde mais avec moi on peut !**
 3. J'ai des compétences pour soigner vos bobos
 
 #### Ce que j'aime par dessus tout
@@ -24,7 +24,7 @@ Connaitre les bases de développeur et comprendre plusieurs langage de programma
 
 #### Ma peur
 
-Ne pas être à la hauteur des attendes de moi même ou des autres.
+Ne pas être à la hauteur des attentes que j'ai envers moi même ou des autres.
 
 #### Ce que j'attends
 
